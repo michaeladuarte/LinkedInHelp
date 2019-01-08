@@ -1,0 +1,13 @@
+name: 'Field Layout'
+type: module
+description: 'Adds layout capabilities to the Field UI.'
+package: Core (Experimental)
+version: VERSION
+core: 8.x
+dependencies:
+  - drupal:layout_discovery
+
+# Information added by drush on 2018-12-05
+version: '8.6.4'
+project: 'drupal'
+datestamp: 1544011082

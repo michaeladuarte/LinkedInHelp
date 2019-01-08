@@ -1,0 +1,14 @@
+name: 'Block test views'
+type: module
+description: 'Provides a view and block to test block displays in views.'
+package: Testing
+version: VERSION
+core: 8.x
+dependencies:
+  - drupal:block
+  - drupal:views
+
+# Information added by drush on 2018-12-05
+version: '8.6.4'
+project: 'drupal'
+datestamp: 1544011082

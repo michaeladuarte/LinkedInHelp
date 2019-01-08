@@ -1,0 +1,10 @@
+core: 8.x
+name: Update test after
+type: module
+package: Testing
+version: VERSION
+
+# Information added by drush on 2018-12-05
+version: '8.6.4'
+project: 'drupal'
+datestamp: 1544011082
